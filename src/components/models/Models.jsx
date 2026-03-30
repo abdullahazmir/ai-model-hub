@@ -12,7 +12,7 @@ const Models = ({ modelPromise, carts, setCarts }) => {
         <div className='py-10 max-w-7xl mx-auto'>
             <div className='text-center my-10'>
                 <h2 className='text-5xl'>Choose your AI Model</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, voluptates?</p>
+                <p>AI practice is very important for us. You will find best features from our platform</p>
             </div>
 
             <div className='grid lg:grid-cols-3 md:grid-cols-2 gap-4 '>
